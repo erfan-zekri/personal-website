@@ -1,0 +1,195 @@
+{
+    "personal_information": {
+        "name": "Erfan Zekri Esfahani",
+        "email": "erfanzekri@gmail.com",
+        "phone": "+98 990 5134639",
+        "location": "Tehran, Iran",
+        "affiliation": "AI Lab, Computer Engineering Dept., Isfahan University of Technology",
+        "links": {
+            "github": "Github",
+            "linkedin": "LinkedIn"
+        }
+    },
+    "work_experience": [
+        {
+            "role": "AI Team Lead",
+            "company": "Dide Negar Hoosh No",
+            "location": "Tehran, Iran",
+            "period": "Apr. 2024 - Apr. 2026",
+            "description": "Research and develop computer vision features for CCTV cameras.",
+            "achievements": [
+                "Develop and manage Car (Plate/Color/Model/Type) Detection, OCR, Face (Tracking/Detection/Recognition), Restricted Area, Fire Detection, Object Counting, Personal Protective Equipments, and Missing Object Detection modules on cameras using Triton and TensorRT."
+            ]
+        },
+        {
+            "role": "Computer Vision Researcher",
+            "company": "Sepehr Fanavar Adrina",
+            "location": "Isfahan, Iran",
+            "period": "Dec. 2022 - Apr. 2024",
+            "description": "Research and develop computer vision features for X-Ray devices. Material discrimination and atomic number prediction in cargo X-ray inspection.",
+            "achievements": [
+                "Deploy a CNN on cargo inspection device to classify trucks and trailers based on their load types."
+            ]
+        },
+        {
+            "role": "Customer Technical Support Internship",
+            "company": "ICAN Engineering group",
+            "location": "Isfahan, Iran",
+            "period": "Jun. - Sep. 2019",
+            "description": "Support companies' networks and their SQL databases."
+        },
+        {
+            "role": "Graduation Internship",
+            "company": "Isfahan's Mobarakeh Steel Company",
+            "location": "Isfahan, Iran",
+            "period": "Jul. - Oct. 2018",
+            "description": "Designing and developing windows application projects using C#, WPF, ADO.NET and SQL."
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Computer Science - Artificial Intelligence and Robotics",
+            "institution": "Isfahan University of Technology",
+            "location": "Isfahan, Iran",
+            "period": "2019 - 2022",
+            "advisers": [
+                "Dr. Maziar Palhang"
+            ],
+            "thesis": "Detection and Tracking a Moving Ball using a Humanoid Robot Followed By an Immediate Kick",
+            "gpa": "18.06/20"
+        },
+        {
+            "degree": "B.S. in Computer Engineering - Software Engineering",
+            "institution": "Shahrekord University",
+            "location": "Shahrekord, Iran",
+            "period": "2015 - 2019",
+            "advisers": [
+                "Dr. Reza Rouhani"
+            ],
+            "thesis": "Multi Kinect Sensor Fusion for Noise Reduction",
+            "gpa": "17.53/20"
+        },
+        {
+            "degree": "Diploma in Mathematics and Physics",
+            "institution": "Shohadaye Adab High School",
+            "location": "Isfahan, Iran",
+            "period": "2011 - 2015",
+            "gpa": "18.50/20"
+        }
+    ],
+    "computer_skills": {
+        "programming_languages": [
+            "Python",
+            "Rust",
+            "C#",
+            "MATLAB",
+            "C++"
+        ],
+        "frameworks_and_libraries": [
+            "Pytorch",
+            "Tensorflow",
+            "Keras",
+            "OpenCV",
+            "Scikit-learn",
+            "Darknet",
+            "ONNX",
+            "Pandas",
+            "NumPy"
+        ],
+        "robotics": [
+            "ROS",
+            "Gazebo",
+            "Raspberry Pi",
+            "Arduino"
+        ],
+        "web_development": [
+            "HTML",
+            "CSS",
+            "JS",
+            ".NET",
+            "RESTful API",
+            "gRPC"
+        ],
+        "dbms": [
+            "SQL",
+            "Qdrant"
+        ],
+        "typesetting": [
+            "LaTeX"
+        ],
+        "others": [
+            "Git",
+            "Docker",
+            "Redis",
+            "TensorRT",
+            "Triton",
+            "DVC",
+            "MLOps"
+        ]
+    },
+    "certificates": [
+        {
+            "year": "2023",
+            "names": [
+                "Data Science",
+                "C#"
+            ]
+        },
+        {
+            "year": "2022",
+            "names": [
+                "Python for Data Science",
+                "Python Data Structures",
+                "Python for Beginners"
+            ]
+        },
+        {
+            "year": "2019",
+            "names": [
+                "SQL"
+            ]
+        },
+        {
+            "year": "2018",
+            "names": [
+                "JQuery"
+            ]
+        }
+    ],
+    "honors_and_awards": [
+        {
+            "year": "2020",
+            "title": "Ranked 1st in Digikala AI Challenge"
+        },
+        {
+            "year": "2019",
+            "title": "Talented Student Award"
+        },
+        {
+            "year": "2019",
+            "title": "Ranked 2nd among Computer Engineering students in all 8 semesters, Shahrekord University, Shahrekord, Iran"
+        },
+        {
+            "year": "2016",
+            "title": "Ranked 2nd in ACM intra-university Contest"
+        },
+        {
+            "title": "Machine Learning Python Core"
+        },
+        {
+            "title": "Intermediate Python"
+        },
+        {
+            "title": "Python for Finance"
+        }
+    ],
+    "languages": {
+        "english": {
+            "proficiency": "Professional Working Proficiency",
+            "reading": "Advanced",
+            "listening": "Advanced",
+            "writing": "Upper-Intermediate",
+            "speaking": "Upper-Intermediate"
+        }
+    }
+}
