@@ -58,13 +58,13 @@ export default function Home() {
             <a href={`mailto:${personal.email}`} className="contact-badge">
               <Mail size={16} /> Contact Me
             </a>
-            <a href="#" className="contact-badge">
+            <a href={personal.links.github} target="_blank" rel="noopener noreferrer" className="contact-badge">
               <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.2c3-.3 6-1.5 6-6.5a5.4 5.4 0 0 0-1.5-3.8 5.4 5.4 0 0 0-.1-3.8s-1.2-.4-3.9 1.4a13.3 13.3 0 0 0-7 0C6.2 1.6 5 2 5 2a5.4 5.4 0 0 0-.1 3.8A5.4 5.4 0 0 0 3.4 9.6c0 5 3 6.2 6 6.5a4.8 4.8 0 0 0-1 3.2v4"></path></svg>
-              {personal.links.github}
+              GitHub
             </a>
-            <a href="#" className="contact-badge">
+            <a href={personal.links.linkedin} target="_blank" rel="noopener noreferrer" className="contact-badge">
               <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
-              {personal.links.linkedin}
+              LinkedIn
             </a>
           </div>
 
