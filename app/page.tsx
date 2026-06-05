@@ -48,6 +48,9 @@ export default function Home() {
         
         {/* Profile Header */}
         <section className="profile-header fade-in">
+          <div className="profile-image-container" style={{ margin: '0 auto' }}>
+            <img src="/profile.jpg" alt={`${personal.name} profile`} className="profile-img" />
+          </div>
           <h1 className="text-gradient">{personal.name}</h1>
           <h2>AI Team Lead & Computer Vision Researcher</h2>
           <p style={{ maxWidth: '600px', margin: '0 auto' }}>
